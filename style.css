@@ -99,3 +99,36 @@ padding-left: 5%;
     background-position: bottom right;
     margin-right: 0;
 }
+.final-section{
+    background-color: black;
+    color: white;
+    padding-left: 35px;
+    margin: 0;
+    padding-bottom: 3%;
+}
+.part-5{
+    display: flex;
+    padding-left: 8%;
+    width: 50%;
+    align-content: left;
+}
+#last-part1{
+    border-top: solid;
+    border-right: solid;
+    border-bottom: solid;
+    padding-right: 70%;
+}
+#last-part2{
+    border-top: solid;
+    border-bottom: solid;
+    padding-left: 20%;
+    padding-right: 35%;
+}
+.final-anchor{
+    font-size: 35px;
+    color: white;
+    
+}
+.footer{
+    padding-top: 15px;
+}
