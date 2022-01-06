@@ -12,7 +12,7 @@ body{
     border-left: 4px solid crimson;
 }
 .font-size{
-    font-size: 20px;
+    font-size: 22px;
 }
 .part-1{
     display: flex;
@@ -83,6 +83,8 @@ padding-left: 5%;
 }
 .part-3{
     display: flex;
+    margin-bottom: 60px;
+    margin-top: 20px;
 }
 .half-3{
     width: 50%;
@@ -90,4 +92,10 @@ padding-left: 5%;
 }
 .half-3 img{
     width: 70%;
+}
+.banner-4{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-right: 0;
 }
