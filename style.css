@@ -10,6 +10,7 @@ body{
 }
 .border-line{
     border-left: 4px solid crimson;
+    border-radius: 5px;
 }
 .font-size{
     font-size: 22px;
